@@ -18,4 +18,6 @@
 
 ## 开源协议
 MIT License，免费自用、二次开发、商用均可，欢迎Star & Fork
+
+## 软件截图
 <img width="1004" height="713" alt="image" src="https://github.com/user-attachments/assets/39330f60-6390-4641-9efc-37abd583979f" />
