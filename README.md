@@ -1,4 +1,4 @@
-## PicBatchAutoRenamer - 图片批量自定义自动命名器
+# PicBatchAutoRenamer - 图片批量自定义自动命名器
 ## 项目介绍
 适用于Windows 10/11的轻量桌面工具，专为图片批量重命名设计，免费开源无广告。
 
