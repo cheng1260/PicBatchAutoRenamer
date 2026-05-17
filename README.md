@@ -21,5 +21,9 @@
 <img width="1004" height="713" alt="image" src="https://github.com/user-attachments/assets/39330f60-6390-4641-9efc-37abd583979f" />
 
 
+## 📥 下载使用
+最新版本可在 [Releases 页面](https://github.com/cheng1260/PicBatchAutoRenamer/releases) 下载，双击即可运行，无需安装。
+
+
 ## 开源协议
 MIT License，免费自用、二次开发、商用均可，欢迎Star & Fork
